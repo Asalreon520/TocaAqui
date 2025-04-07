@@ -47,3 +47,5 @@ TocaAquí ofrece una solución digital integral que transforma la forma en que s
 
 ### 1.3. Segmentos objetivo.
 
+Los segmentos objetivo son grupos específicos de usuarios a los que se dirige un producto o servicio en particular.  <br><br>
+Los segmentos objetivos identificados se definirán en la siguiente tabla:
