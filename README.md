@@ -19,26 +19,23 @@ Me llamo Eddo Su Caletti estudió la carrera de ingeniería de software estoy en
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc3dafP0Lgi4chSCplgIy2CMR87NgfBzQ5Wi1jyjWbe5qzVFIkyK8mWTKpSdOlG3l4hK9Lss30l-E8Lft_7c2_3-o2J4CipKVLejnUhr20yQy10Ih3KV70SA73RaPgooUOpVWm5rQ?key=UTGk9fNRTPANN7JnqgZpalhy)**
 
 ### 1.2. Solution Profile
+
 TocaAquí es una plataforma web integral desarrollada para transformar la forma en que se conectan músicos emergentes con espacios de entretenimiento como bares, discotecas, centros culturales y promotores de eventos. Su enfoque principal es profesionalizar y digitalizar todo el proceso de contratación musical en vivo, resolviendo desafíos críticos como la informalidad, la falta de visibilidad, la logística poco estructurada y los riesgos asociados a los pagos. La plataforma busca revolucionar la industria musical independiente al combinar tecnología con gestión cultural eficiente y segura, brindando oportunidades reales de crecimiento tanto a artistas como a promotores.
 
 Características Principales:
 
-Conexión Inteligente entre Músicos y Espacios:
-TocaAquí permite a músicos y bandas independientes explorar y postularse a espacios disponibles según ubicación, género musical y fechas. A través de filtros inteligentes, los artistas encuentran escenarios afines a su propuesta y los promotores acceden a un catálogo confiable de talento emergente.
+- **Conexión Inteligente entre Músicos y Espacios:**TocaAquí permite a músicos y bandas independientes explorar y postularse a espacios disponibles según ubicación, género musical y fechas. A través de filtros inteligentes, los artistas encuentran escenarios afines a su propuesta y los promotores acceden a un catálogo confiable de talento emergente.
 
-Gestión Logística Digitalizada:
-La plataforma digitaliza cada paso del proceso: desde la publicación de fechas y requisitos por parte de los locales, hasta la coordinación del rider técnico, validación de la agenda y seguimiento en tiempo real de la programación. Esto garantiza una experiencia fluida, transparente y sin improvisaciones.
+- **Gestión Logística Digitalizada:**La plataforma digitaliza cada paso del proceso: desde la publicación de fechas y requisitos por parte de los locales, hasta la coordinación del rider técnico, validación de la agenda y seguimiento en tiempo real de la programación. Esto garantiza una experiencia fluida, transparente y sin improvisaciones.
 
-Contratación Formal y Segura:
-Con el uso de contratos digitales, TocaAquí formaliza cada presentación. Los acuerdos incluyen condiciones, cláusulas de cancelación y validación de cumplimiento. Además, los pagos son gestionados a través de un sistema de escrow, asegurando que el músico reciba su compensación solo cuando el evento ha sido validado.
+-**Contratación Formal y Segura:**Con el uso de contratos digitales, TocaAquí formaliza cada presentación. Los acuerdos incluyen condiciones, cláusulas de cancelación y validación de cumplimiento. Además, los pagos son gestionados a través de un sistema de escrow, asegurando que el músico reciba su compensación solo cuando el evento ha sido validado.
 
-Promoción Automatizada de Eventos:
-Una vez cerrada la contratación, la plataforma genera automáticamente materiales de promoción, incluyendo entradas digitales, imágenes para redes sociales y publicación del evento en la agenda virtual del espacio. Esto facilita la difusión y aumenta la asistencia sin esfuerzo adicional.
+-**Promoción Automatizada de Eventos:**Una vez cerrada la contratación, la plataforma genera automáticamente materiales de promoción, incluyendo entradas digitales, imágenes para redes sociales y publicación del evento en la agenda virtual del espacio. Esto facilita la difusión y aumenta la asistencia sin esfuerzo adicional.
 
-Seguimiento y Evaluación Post-Evento:
-Tanto músicos como espacios pueden evaluarse mutuamente tras cada presentación. Este sistema de reputación ayuda a construir confianza en la comunidad, destacando a los artistas más responsables y a los promotores más organizados, fortaleciendo así el ecosistema musical independiente.
+-**Seguimiento y Evaluación Post-Evento:**Tanto músicos como espacios pueden evaluarse mutuamente tras cada presentación. Este sistema de reputación ayuda a construir confianza en la comunidad, destacando a los artistas más responsables y a los promotores más organizados, fortaleciendo así el ecosistema musical independiente.
 
 TocaAquí no solo conecta talento con oportunidades, sino que impulsa un cambio estructural en la forma de organizar y vivir la música en vivo. Su visión es clara: profesionalizar la escena independiente y democratizar el acceso a escenarios reales para artistas emergentes.
+
 
 ### 1.2.1 Antecedentes y problemática
 
