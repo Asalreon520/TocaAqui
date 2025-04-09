@@ -18,6 +18,14 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 🔹 Ventaja de TocaAquí: Apuntamos a artistas emergentes que buscan espacios reales de exposición en circuitos culturales, y promovemos la contratación en vivo en espacios públicos y comunitarios.
 
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfluwZjQSItm_-HnJzteiZ8-JxMEpgsyrurPUN3HsqOs2CliiFVulB2ve3-v05hR4XtUOlBOFgBDI-7iSevJhvSxr0VfAt9GazqQ_ejyjzmjlAK-y_FUMlEKyMwju3Jg0zv8xvuaA?key=UTGk9fNRTPANN7JnqgZpalhy)
+
+  
+
+Indie on the Move: Plataforma que ayuda a bandas a encontrar lugares donde tocar en Estados Unidos, ofreciendo bases de datos y herramientas para giras. Sin embargo, la gestión sigue siendo manual y sin respaldo de contratos ni pagos seguros.
+
+
 ### 2.1.1. Análisis competitivo. 
 
 # Competitive Analysis Landscape
