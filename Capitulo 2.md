@@ -25,6 +25,7 @@ En el ecosistema de soluciones para la gestión de eventos musicales y contratac
 
 Indie on the Move: Plataforma que ayuda a bandas a encontrar lugares donde tocar en Estados Unidos, ofreciendo bases de datos y herramientas para giras. Sin embargo, la gestión sigue siendo manual y sin respaldo de contratos ni pagos seguros.
 
+🔹 Ventaja de TocaAquí: Ofrecemos una experiencia automatizada y segura, con contrato digital, logística integrada y pagos protegidos mediante escrow, además de promoción integrada del evento.
 
 ### 2.1.1. Análisis competitivo. 
 
